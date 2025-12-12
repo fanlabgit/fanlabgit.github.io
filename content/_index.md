@@ -36,11 +36,12 @@ sections:
   - block: markdown
     content:
       title: "The Fan Laboratory"
-      subtitle: "More details below"
-      text: |
-              
-        The Fan Laboratory investigates the molecular mechanisms governing cancer progression and uncover fundamental survival pathways in cancer. We employ an integrative strategy combining functional genomics, bioinformatics, multi-omics, and chemical biology to dissect how cancer cells adapt to targeted therapies and develop new therapeutic strategies.
-        
+      text: |              
+        The Fan Laboratory investigates the molecular mechanisms governing cancer progression and 
+        uncover fundamental survival pathways in cancer. We employ an integrative strategy combining 
+        functional genomics, bioinformatics, multi-omics, and chemical biology to dissect how cancer 
+        cells adapt to targeted therapies and develop new therapeutic strategies.
+
         Our work focuses on three distinct but interconnected areas of translational biology:
         
         - The Interface of rRNA Synthesis and Splicing
