@@ -33,40 +33,31 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: cta-image-paragraph
-    id: research
+  - block: markdown
     content:
-      items:
-        - statistic: "Biomarker Discovery"
-          description: |
-            Websites built  
-            with Hugo Blox
-          # Upload image to `assets/media/` and reference the filename here
-          image: biomarker.jpg
-        - statistic: "Drug Resistance"
-          description: |
-            GitHub stars  
-            since 2016
-          # Upload image to `assets/media/` and reference the filename here
-          image: figure-screen3.jpg
-        - statistic: "Population Genetics"
-          description: |
-            Discord community  
-            for support
-          # Upload image to `assets/media/` and reference the filename here
-          image: figure-rna.jpg
+      title: "The Fan Laboratory"
+      subtitle: "More details below"
+      text: |
+              
+        The Fan Laboratory investigates the molecular mechanisms governing cancer progression and uncover fundamental survival pathways in cancer. We employ an integrative strategy combining functional genomics, bioinformatics, multi-omics, and chemical biology to dissect how cancer cells adapt to targeted therapies and develop new therapeutic strategies.
+        
+        Our work focuses on three distinct but interconnected areas of translational biology:
+        
+        - The Interface of rRNA Synthesis and Splicing
+        - Ribosomal Heterogeneity
+        - Translational Fitness and Resistance
+                
+        [Google scholar](https://scholar.google.com/citations?user=GuJ4ltoAAAAJ&hl=en)
     design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
+      columns: "1"
+      background:
+        color: "white"
 
   - block: testimonials
     id: team
     content:
       title: "Team"
-      text: "We are hiring!"
+      text: ""
       items:
         - name: "Wenjun Fan"
           role: "Principal Investigator"
