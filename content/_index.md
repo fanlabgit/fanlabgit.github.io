@@ -33,7 +33,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: stats
     content:
       items:
         - statistic: "Biomarker Discovery"
@@ -71,7 +71,7 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-300"
         css_style: ""
-  - block: markdown
+  - block: cta-image-paragraph
     id: contact
     content:
       items:
