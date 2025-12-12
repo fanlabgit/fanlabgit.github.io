@@ -4,17 +4,18 @@
 
 main:
   - name: Home
+    identifier: 3tgqLEed
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
+  - name: Research
+    identifier: x6K-TIvi
+    url: /#research
     weight: 20
-  - name: Solutions
+  - name: Team
+    identifier: eHBLnfuQ
     url: /#solutions
     weight: 30
-  - name: Resources
+  - name: Contact
+    identifier: eM2nHS6I
+    url: /#Contact
     weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
