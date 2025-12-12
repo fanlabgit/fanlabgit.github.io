@@ -75,14 +75,12 @@ sections:
     id: contact
     content:
       items:
-        - title: Contact us
-          
-          
-          features:
-             "Wenjun Fan, PhD"
-             "University of Maryland School of Medicine"
-             "108 N. Greene St., Baltimore MD 21201"
-             "✉️ Email: Wenjun.Fan@som.umaryland.edu"
+    - title: Contact us
+          # The '|' symbol allows for multi-line text blocks
+          text: |
+            **Wenjun Fan, PhD** University of Maryland School of Medicine  
+            108 N. Greene St., Baltimore MD 21201  
+            ✉️ Email: Wenjun.Fan@som.umaryland.edu
           # Upload image to `assets/media/` and reference the filename here
           image: um-school-medicine-logo.svg
           image: UMB-Skyline-Rendering_MM.jpg
