@@ -33,7 +33,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: research
+  - block: markdown
     content:
       items:
         - statistic: "Biomarker Discovery"
@@ -61,7 +61,7 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
 
-  - block: team
+  - block: markdown
     content:
       title: Team
       text: We are hiring!
@@ -71,7 +71,7 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-300"
         css_style: ""
-  - block: contact
+  - block: markdown
     id: contact
     content:
       items:
