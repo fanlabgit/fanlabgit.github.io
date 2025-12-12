@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2025-12-12
 type: landing
 
 design:
@@ -33,7 +33,8 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: stats
+  - block: solutions
+    id: research
     content:
       items:
         - statistic: "Biomarker Discovery"
@@ -62,14 +63,15 @@ sections:
         padding: ["1rem", 0, "1rem", 0]
 
   - block: testimonials
+    id: team
     content:
-      title: Team
-      text: We are hiring!
-    items:
+      title: "Team"
+      text: "We are hiring!"
+      items:
         - name: "Wenjun Fan"
           role: "Principal Investigator"
           # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
+          image: "pi.jpg"
           text: "We are hiring!" 
     design:
       card:
