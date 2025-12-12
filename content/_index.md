@@ -84,7 +84,7 @@ sections:
             ✉️ Email: Wenjun.Fan@som.umaryland.edu
           # Upload image to `assets/media/` and reference the filename here
           # image: um-school-medicine-logo.svg
-          image: UMB-Skyline-Rendering_MM.jpg
+          image: umb-skyline-rendering-mm.jpg
 
 
     design:
