@@ -33,7 +33,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: solutions
+  - block: cta-image-paragraph
     id: research
     content:
       items:
