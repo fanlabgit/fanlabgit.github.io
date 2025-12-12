@@ -17,5 +17,5 @@ main:
     weight: 30
   - name: Contact
     identifier: eM2nHS6I
-    url: /#Contact
+    url: /#contact
     weight: 40
