@@ -80,7 +80,7 @@ sections:
           
           features:
              "Wenjun Fan, PhD"
-             :University of Maryland School of Medicine"
+             "University of Maryland School of Medicine"
              "108 N. Greene St., Baltimore MD 21201"
              "✉️ Email: Wenjun.Fan@som.umaryland.edu"
           # Upload image to `assets/media/` and reference the filename here
