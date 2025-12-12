@@ -61,11 +61,16 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
 
-  - block: markdown
+  - block: testimonials
     content:
       title: Team
       text: We are hiring!
-      
+    items:
+        - name: "Wenjun Fan"
+          role: "Principal Investigator"
+          # Upload image to `assets/media/` and reference the filename here
+          image: "testimonial-1.jpg"
+          text: "We are hiring!" 
     design:
       card:
         # Card background color (CSS class)
