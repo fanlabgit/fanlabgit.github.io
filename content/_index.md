@@ -83,7 +83,7 @@ sections:
             108 N. Greene St., Baltimore MD 21201  
             ✉️ Email: Wenjun.Fan@som.umaryland.edu
           # Upload image to `assets/media/` and reference the filename here
-          image: um-school-medicine-logo.svg
+          # image: um-school-medicine-logo.svg
           image: UMB-Skyline-Rendering_MM.jpg
 
 
