@@ -84,12 +84,10 @@ sections:
             108 N. Greene St., Baltimore MD 21201  
             ✉️ Email: Wenjun.Fan@som.umaryland.edu
             [Department of Biochemistry](https://www.medschool.umaryland.edu/biochemistry/)
+            ![UMB Logo](um-school-medicine-logo.svg)
           # Upload image to `assets/media/` and reference the filename here
           # image: um-school-medicine-logo.svg
           image: umb-skyline-rendering-mm.jpg
-    content:
-      items:
-      image: um-school-medicine-logo.svg
 
     design:
       # Section background color (CSS class)
