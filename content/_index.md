@@ -34,6 +34,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: research
     content:
       title: "The Fan Laboratory"
       text: |              
@@ -77,14 +78,18 @@ sections:
         - title: Contact us
           # The '|' symbol allows for multi-line text blocks
           text: |
-            **Wenjun Fan, PhD** 
-            University of Maryland School of Medicine  
+            **Wenjun Fan, PhD**
+            Department of Biochemistry and Molecular Biology
+            University of Maryland School of Medicine
             108 N. Greene St., Baltimore MD 21201  
             ✉️ Email: Wenjun.Fan@som.umaryland.edu
+            [Department of Biochemistry](https://www.medschool.umaryland.edu/biochemistry/)
           # Upload image to `assets/media/` and reference the filename here
           # image: um-school-medicine-logo.svg
           image: umb-skyline-rendering-mm.jpg
-
+    content:
+      items:
+      image: um-school-medicine-logo.svg
 
     design:
       # Section background color (CSS class)

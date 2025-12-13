@@ -23,8 +23,7 @@ hugoblox:
     # Site meta description for search engines and social sharing
     description: "Fan Lab | University of Maryland School of Medicine"
     # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "BuildLore" # Twitter/X handle for Twitter Cards (without @)
+    social: {}
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
