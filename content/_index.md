@@ -103,12 +103,12 @@ sections:
         - title: Contact us
           # The '|' symbol allows for multi-line text blocks
           text: |
-            <b>Wenjun Fan, PhD<b>   
+            **Wenjun Fan, PhD**     
             Department of Biochemistry and Molecular Biology  
             University of Maryland School of Medicine  
             108 N. Greene St., Baltimore MD 21201   
-            ✉️ Email: Wenjun.Fan@som.umaryland.edu  
-
+            ✉️ Email: Wenjun.Fan@som.umaryland.edu
+            ** **    
             Department website: https://www.medschool.umaryland.edu/biochemistry/  
             ![UMB Logo](um-school-medicine-logo.svg)
           # Upload image to `assets/media/` and reference the filename here
