@@ -108,7 +108,7 @@ sections:
             University of Maryland School of Medicine  
             108 N. Greene St., Baltimore MD 21201   
             ✉️ Email: Wenjun.Fan@som.umaryland.edu
-            ** **    
+                  
             Department website: https://www.medschool.umaryland.edu/biochemistry/  
             ![UMB Logo](um-school-medicine-logo.svg)
           # Upload image to `assets/media/` and reference the filename here
