@@ -27,7 +27,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: fanlab-header-1m.jpg
+          filename: fanlab-header-1920.jpg
           filters:
             brightness: 0.5
           size: cover
