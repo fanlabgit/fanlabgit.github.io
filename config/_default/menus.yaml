@@ -11,11 +11,15 @@ main:
     identifier: x6K-TIvi
     url: /#research
     weight: 20
+  - name: Publications
+    identifier: publications
+    url: /#publications
+    weight: 30
   - name: Team
     identifier: eHBLnfuQ
     url: /#team
-    weight: 30
+    weight: 40
   - name: Contact
     identifier: eM2nHS6I
     url: /#contact
-    weight: 40
+    weight: 50

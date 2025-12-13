@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Fan Lab"
+    name: " Fan Lab @ UMB"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: "University of Maryland School of Medicine"
     # Schema.org type for structured data
