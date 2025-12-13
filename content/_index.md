@@ -55,7 +55,7 @@ sections:
       background:
         color: "white"
 
-- block: markdown
+  - block: markdown
     id: publications
     content:
       title: Publications
